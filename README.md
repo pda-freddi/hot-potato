@@ -2,9 +2,9 @@
 
 This project was built for Codecademy's [Learn WebSockets course](https://www.codecademy.com/learn/learn-websockets).
 
-It's a Hot Potato multiplayer game that runs on the browser and uses WebSockets to establish a bidirectional client-server communication, allowing real time communication and the implementation of a broadcast pattern to pass data to multiple clients at the same time.
+It's a Hot Potato multiplayer game that runs on the browser and uses WebSockets to establish a bidirectional client-server communication, allowing real-time communication and the implementation of a broadcast pattern to pass data to multiple clients at the same time.
 
-The game's logic and file structure were provided by Codecademy in the form of starter code. I built the WebSockets logic following their material provided in the course.
+The game's logic and file structure were provided by Codecademy in the form of starter code. I built the WebSockets logic following the material provided in the course.
 
 ## Rules
 
